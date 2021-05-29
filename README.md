@@ -1,4 +1,4 @@
-Here lives all my linux scripts and config files. 
+My bash prompt style
 
 # Bash Prompt
 1. Install terminal of choice.
